@@ -546,8 +546,7 @@ a:focus {
 }
 
 .hero-content-wrapper .hero-content h1 {
-	font-size: 5.5em;
-	text-transform: uppercase;
+	font-size: 3.5em;
 	letter-spacing: 5px;
 	line-height: 1;
 	margin: 0px auto;
@@ -910,12 +909,12 @@ a:focus {
 /* -------------------------------------
     ( 8 ) Start Process Section
 * ------------------------------------- */
-#process .process-step {
-	margin-bottom: 40px;
+#services .process-step {
+	margin-bottom: 30px;
 }
 
-#process .process-text {
-	padding-top: 30px;
+#services .process-text {
+	padding-top: 10px;
 }
 
 #process .process-text i {
