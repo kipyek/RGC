@@ -575,8 +575,8 @@ a:focus {
 
 .hero-content-wrapper .hero-content span.dot {
 	display: inline-block;
-	width: 4px;
-	height: 4px;
+	width: 2px;
+	height: 2px;
 	margin: 4px 20px;
 	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
