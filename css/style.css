@@ -420,7 +420,7 @@ a:focus {
 }
 
 #home.main {
-	background-image: url("../img/background.jpg");
+	background-image: url("../img/overlay.jpg");
 }
 
 #home.bg-2 {
@@ -546,7 +546,7 @@ a:focus {
 }
 
 .hero-content-wrapper .hero-content h1 {
-	font-size: 3.5em;
+
 	letter-spacing: 5px;
 	line-height: 1;
 	margin: 0px auto;
@@ -556,7 +556,7 @@ a:focus {
 .hero-content-wrapper .hero-content p {
 	font-family: "Raleway", sans-serif;
 	font-weight: 400;
-	font-size: 1.2em;
+	font-size: .9vw;
 	line-height: 24px;
 	text-transform: capitalize;
 	color: #fff;
